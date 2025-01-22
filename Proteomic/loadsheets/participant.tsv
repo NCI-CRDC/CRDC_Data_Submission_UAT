@@ -1,0 +1,11 @@
+type	study.phs_accession	study_participant_id	participant_id	race	gender	ethnicity	dbGaP_subject_id
+participant	phs0001	UAT-CASE-537737	ICBI-000010	Native Hawaiian or other Pacific Islander	Not Reported	Hispanic or Latino	scientia_et_sapientia
+participant	phs0001	UAT-CASE-105229	ICBI-000010	Not Reported	Unknown	Hispanic or Latino	scientia,_aere_perennius
+participant	phs0001	UAT-CASE-596956	ICBI-000010	Native Hawaiian or other Pacific Islander	Not Reported	Not Hispanic or Latino	barba_crescit_caput_nescit
+participant	phs0001	UAT-CASE-466813	ICBI-000010	Unknown	Unknown	Not reported	scientia,_aere_perennius
+participant	phs0001	UAT-CASE-443098	ICBI-000009	White	Male	Unknown	scientia_imperii_decus_et_tutamen
+participant	phs0001	UAT-CASE-778068	ICBI-000009	Unknown	Unspecified	Unknown	sapiens_qui_prospicit
+participant	phs0001	UAT-CASE-491664	ICBI-000009	White	Male	Not Hispanic or Latino	faber_est_suae_quisque_fortunae
+participant	phs0001	UAT-CASE-411987	ICBI-000009	Not Reported	Unspecified	Not reported	scientia_et_sapientia
+participant	phs0001	UAT-CASE-115944	ICBI-000008	American Indian or Alaska Native	Male	Not allowed to collect	scientia_et_sapientia
+participant	phs0001	UAT-CASE-428896	ICBI-000008	Not Reported	Intersex	Not allowed to collect	labor_ipse_voluptas

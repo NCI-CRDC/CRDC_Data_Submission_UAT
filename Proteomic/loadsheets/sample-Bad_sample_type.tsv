@@ -1,0 +1,21 @@
+type	participant.study_participant_id	sample_id	sample_type	sample_tumor_status	sample_anatomic_site	sample_age_at_collection	derived_from_specimen	biosample_accession
+sample	UAT-CASE-537737	ICBI-000001-01	Solid Tissue Normal	Not Reported	Lung	653	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	pace_tua
+sample	UAT-CASE-537737	ICBI-000001-02	Solid Tissue Normal	Not Reported	Lung	653	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	pace_tua
+sample	UAT-CASE-105229	ICBI-000002-01	Solid Tissue Normal	Tumor	Nasopharynx	856	scientia_et_sapientia	scientiae_et_patriae
+sample	UAT-CASE-105229	ICBI-000002-02	Solid Tissue Normal	Tumor	Nasopharynx	856	scientia_et_sapientia	scientiae_et_patriae
+sample	UAT-CASE-596956	ICBI-000003-01	Primary Tumor	Unknown	Lymph Node(s) Scalene	218	nanos_gigantum_humeris_insidentes	Obedientia_civium_urbis_felicitas
+sample	UAT-CASE-596956	ICBI-000003-02	Primary Tumor	Unknown	Lymph Node(s) Scalene	218	nanos_gigantum_humeris_insidentes	Obedientia_civium_urbis_felicitas
+sample	UAT-CASE-466813	ICBI-000004-01	Primary Tumor	Tumor	Nasal Soft Tissue	501	nanos_gigantum_humeris_insidentes	salus_in_arduis
+sample	UAT-CASE-466813	ICBI-000004-02	Primary Tumor	Tumor	Nasal Soft Tissue	501	nanos_gigantum_humeris_insidentes	salus_in_arduis
+sample	UAT-CASE-443098	ICBI-000005-01	Solid Tissue Normal	Normal	Nasal Soft Tissue	20	barba_crescit_caput_nescit	damnant_quod_non_intellegunt
+sample	UAT-CASE-443098	ICBI-000005-02	Solid Tissue Normal	Normal	Nasal Soft Tissue	20	barba_crescit_caput_nescit	damnant_quod_non_intellegunt
+sample	UAT-CASE-778068	ICBI-000006-01	Solid Tissue Normal	Unknown	Oral Cavity - Mucosa Only	697	scientia_imperii_decus_et_tutamen	labor_ipse_voluptas
+sample	UAT-CASE-778068	ICBI-000006-02	Solid Tissue Normal	Unknown	Oral Cavity - Mucosa Only	697	scientia_imperii_decus_et_tutamen	labor_ipse_voluptas
+sample	UAT-CASE-491664	ICBI-000007-01	Primary Tumor	Not Reported	Ureter	13	Gallia_est_omnis_divisa_in_partes_tres	scientiae_cedit_mare
+sample	UAT-CASE-491664	ICBI-000007-02	Primary Tumor	Not Reported	Ureter	13	Gallia_est_omnis_divisa_in_partes_tres	scientiae_cedit_mare
+sample	UAT-CASE-411987	ICBI-000008-01	Primary Tumor	Tumor	Small Bowel	786	cacatum_non_est_pictum	nanos_gigantum_humeris_insidentes
+sample	UAT-CASE-411987	ICBI-000008-02	Primary Tumor	Tumor	Small Bowel	786	cacatum_non_est_pictum	nanos_gigantum_humeris_insidentes
+sample	UAT-CASE-115944	ICBI-000009-01	Solid Tissue Normal	Not Reported	Posterior mediastil mass (mediastinum)	198	labor_ipse_voluptas	a_bene_placito
+sample	UAT-CASE-115944	ICBI-000009-02	Solid Tissue Normal	Not Reported	Posterior mediastil mass (mediastinum)	198	labor_ipse_voluptas	a_bene_placito
+sample	UAT-CASE-428896	ICBI-000010-01	Solid Tissue Normal	Not Reported	Retroperitoneum	556	sapiens_qui_prospicit	barba_crescit_caput_nescit
+sample	UAT-CASE-428896	ICBI-000010-02	Solid Tissue Normal	Not Reported	Retroperitoneum	556	sapiens_qui_prospicit	barba_crescit_caput_nescit

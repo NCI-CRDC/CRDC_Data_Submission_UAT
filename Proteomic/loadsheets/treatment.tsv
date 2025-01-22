@@ -1,0 +1,11 @@
+type	participant.study_participant_id	treatment_id	treatment_type	days_to_treatment	therapeutic_agents	response
+treatment	UAT-CASE-537737	UAT-TREATMENT-539428	Stem Cell Transplant	944	SR-BP1/HSI Inhibitor SR31747A	Partial Response
+treatment	UAT-CASE-105229	UAT-TREATMENT-358939	Brachytherapy	613	Eg5 Kinesin-Related Motor Protein Inhibitor 4SC-205	Stable Disease
+treatment	UAT-CASE-596956	UAT-TREATMENT-994713	Surgical Procedure	677	SarCNU	Not Reported
+treatment	UAT-CASE-466813	UAT-TREATMENT-369837	Intensity-Modulated Radiation Therapy	370	Everolimus	Partial Response
+treatment	UAT-CASE-443098	UAT-TREATMENT-713489	Cellular Therapy	107	Miptenalimab	Progressive Disease
+treatment	UAT-CASE-778068	UAT-TREATMENT-491249	Targeted Molecular Therapy	949	MET Tyrosine Kinase Inhibitor PF-04217903	Persistent Disease
+treatment	UAT-CASE-491664	UAT-TREATMENT-187647	3-Dimensional Conformal Radiation Therapy	892	EGb761	No Evidence of Disease
+treatment	UAT-CASE-411987	UAT-TREATMENT-461892	Low-Dose Rate Brachytherapy	871	Monoclonal Antibody AK002	Not Reported
+treatment	UAT-CASE-115944	UAT-TREATMENT-803336	Radiation Therapy	368	Anti-CD33/CD3 BiTE Antibody AMG 330	Partial Response
+treatment	UAT-CASE-428896	UAT-TREATMENT-889806	Stem Cell Transplant	54	Astatine At 211 Anti-CD45 Monoclonal Antibody BC8-B10	Unknown
