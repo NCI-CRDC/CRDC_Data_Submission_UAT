@@ -1,0 +1,11 @@
+type	participant.study_participant_id	sample_id	sample_type	sample_tumor_status	sample_anatomic_site	sample_age_at_collection	derived_from_specimen	biosample_accession
+sample	UAT-CASE-808897	NA20811-2	Blood	Unknown	Dermal	595	scientia_et_sapientia	Obedientia_civium_urbis_felicitas
+sample	UAT-CASE-317685	NA20811-01	Blood	Tumor	Dermal	231	faber_est_suae_quisque_fortunae	scientiae_cedit_mare
+sample	UAT-CASE-269675	NA20810-02	Blood	Peritumoral	Bone marrow	93	barba_crescit_caput_nescit	scientia_et_labor
+sample	UAT-CASE-971936	NA20810-01	Blood	Not Reported	Back	896	faber_est_suae_quisque_fortunae	damnant_quod_non_intellegunt
+sample	UAT-CASE-801149	NA20809-02	Blood	Peritumoral	Amniotic Fluid	774	imperium_in_imperio	Gallia_est_omnis_divisa_in_partes_tres
+sample	UAT-CASE-436398	NA20809-01	Blood	Unknown	Scrotum	66	Macte_animo_Generose_puer_sic_itur_ad_astra	scientiae_cedit_mare
+sample	UAT-CASE-774961	NA20808-02	Blood	Not Reported	Hypopharynx	787	scientia_et_sapientia	barba_crescit_caput_nescit
+sample	UAT-CASE-607795	NA20808-01	Blood	Tumor	Lymph Node(s) Pelvic	214	sapiens_qui_prospicit	damnant_quod_non_intellegunt
+sample	UAT-CASE-375169	NA20807-02	Blood	Not Reported	Other	171	saltus_in_demonstrando	pace_tua
+sample	UAT-CASE-143527	NA20807-01	Blood	Unknown	Lymph Node(s) Retroperitoneal	175	labor_ipse_voluptas	Obedientia_civium_urbis_felicitas

@@ -1,0 +1,11 @@
+type	study.phs_accession	study_participant_id	participant_id	race	gender	ethnicity	dbGaP_subject_id
+participant	phs0001	UAT-CASE-808897	NA20811	Black or African American	Unknown	Not reported	imperium_in_imperio
+participant	phs0001	UAT-CASE-317685	NA07347	Native Hawaiian or other Pacific Islander	Male	Not Hispanic or Latino	saltus_in_demonstrando
+participant	phs0001	UAT-CASE-269675	NA07347	Not Reported	Male	Hispanic or Latino	scientia_imperii_decus_et_tutamen
+participant	phs0001	UAT-CASE-971936	NA07346	Not allowed to collect	Unknown	Unknown	nanos_gigantum_humeris_insidentes
+participant	phs0001	UAT-CASE-801149	NA07346	Native Hawaiian or other Pacific Islander	Unspecified	Not Hispanic or Latino	scientia_et_sapientia
+participant	phs0001	UAT-CASE-436398	NA07048	Not Reported	Unknown	Not allowed to collect	scientiae_cedit_mare
+participant	phs0001	UAT-CASE-774961	NA07048	Not Reported	Unknown	Not reported	id_quod_plerumque_accidit
+participant	phs0001	UAT-CASE-607795	NA07037	Not allowed to collect	Not Reported	Unknown	e_causa_ignota
+participant	phs0001	UAT-CASE-375169	NA07037	Not allowed to collect	Not Reported	Not allowed to collect	Gallia_est_omnis_divisa_in_partes_tres
+participant	phs0001	UAT-CASE-143527	NA07000	Native Hawaiian or other Pacific Islander	Female	Not Hispanic or Latino	imperium_in_imperio

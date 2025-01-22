@@ -1,0 +1,11 @@
+type	participant.study_participant_id	treatment_id	treatment_type	days_to_treatment	therapeutic_agents	response
+treatment	UAT-CASE-808897	UAT-TREATMENT-279171	Autologous Stem Cell Transplantation	612	Telisotuzumab Vedotin	No Evidence of Disease
+treatment	UAT-CASE-317685	UAT-TREATMENT-870080	Stereotactic Radiosurgery	53	Liposome	Complete Response
+treatment	UAT-CASE-269675	UAT-TREATMENT-345192	Conventional Radiotherapy	140	Iodine I 131 Tositumomab	Complete Response
+treatment	UAT-CASE-971936	UAT-TREATMENT-383156	Immunotherapy	628	Avadomide	Complete Response
+treatment	UAT-CASE-801149	UAT-TREATMENT-865938	Pharmacotherapy	439	AXL Receptor Tyrosine Kinase/cMET Inhibitor BPI-9016M	No Evidence of Disease
+treatment	UAT-CASE-436398	UAT-TREATMENT-351403	3-Dimensional Conformal Radiation Therapy	632	NY-ESO-B	Not Evaluable
+treatment	UAT-CASE-774961	UAT-TREATMENT-390110	Proton Beam Radiation Therapy	232	Carboxyphenyl Retinamide	Unknown
+treatment	UAT-CASE-607795	UAT-TREATMENT-787560	Hormone Therapy	736	Anti-PD-L1 Monoclonal Antibody CK-301	Progressive Disease
+treatment	UAT-CASE-375169	UAT-TREATMENT-122891	Unknown	303	Anti-TIM-3 Monoclonal Antibody MBG453	No Evidence of Disease
+treatment	UAT-CASE-143527	UAT-TREATMENT-137091	Radiation Therapy	850	Guadecitabine	Complete Response
